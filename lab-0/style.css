@@ -22,4 +22,29 @@ body {
   p, li, dd, dt, address {
     line-height: 1.5;
   }
+
+.heading{
+    text-align: right;
+}
+
+.no-date{
+    text-align: right;
+    font-style: italic;
+}
+
+a{
+    color: blue;
+}
+
+.dotted{
+    text-decoration: underline dotted;
+}
+
+.indention{
+    text-indent: 40px;
+}
+
+.italicize{
+    font-style: italic;
+}
   
